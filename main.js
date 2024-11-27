@@ -1,3 +1,4 @@
+/*
 import {
   getCdnUrl,
   getMediaUrl,
@@ -7,6 +8,7 @@ import {
   getEmoji,
   getIcon
 } from '/discordEasy.js';
+*/
 
 japiUser("933891035216613446", function(data) {
   //alert("Sorry Welcome");
