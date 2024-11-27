@@ -35,11 +35,9 @@ console.error(er);
 });
 ```
 
-### Discord Media & Cdn Easy todas
+### Discord Media Easy todas
 **Usuário para `avatar`, `banner`, `emoji`, `Guilda ícone`, `mídia`**
 
-**Media e Cdn**
-
-`getCdnUrl()` or __`https://cdn.discordapp.com/`__
-
-`getMediaUrl()` or `https://media.discordapp.net/`
+**Mídia e Cdn com Avatar no ícone da Guild**
+- `getCdnUrl()` or `https://cdn.discordapp.com/`
+- `getMediaUrl()` or `https://media.discordapp.net/`
