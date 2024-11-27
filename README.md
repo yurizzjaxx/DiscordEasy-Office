@@ -26,9 +26,12 @@ import {
 `JapiUser()`
 ```js
 japiUser("Usuário ID", function(user) {
--- código 
+// código
 }, function(er) {
--- código Error
+// Error
 console.error(er);
 });
 ```
+
+### Discord Media & Cdn Easy todas
+**Usuário para `avatar`, `emoji`, `Guilda ícone`, `mídia`**
