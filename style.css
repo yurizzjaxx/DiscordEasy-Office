@@ -1,0 +1,41 @@
+* {
+ margin: 0 0 0 0;
+}
+
+html {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-image: url("image/hu_tao.jpg");
+  background-attachment: fixed;
+  background-attachment: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+._c {
+  display: fixed;
+  background: black url() 0 0 no-repeat;
+  border-radius: 20px 50px;
+  min-width: 25vh;
+  padding: 15px;
+  border: solid purple;
+  opacity: 0.8;
+}
+/*
+._gb {
+  position: absolute;
+  width: 100vw;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
+*/
+h1, h2, h3, h4, h5 {
+  color: white;
+}
