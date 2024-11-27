@@ -4,6 +4,8 @@
 
 **import "discordEasy.js" module**
 
+**Clique:** [discordEasy aqui](https://github.com/yurizzjaxx/DiscordEasy-Office/blob/main/discordEasy.js)
+
 ```js
 import {
   getCdnUrl,
