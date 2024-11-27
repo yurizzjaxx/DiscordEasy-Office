@@ -36,4 +36,10 @@ console.error(er);
 ```
 
 ### Discord Media & Cdn Easy todas
-**Usuário para `avatar`, `emoji`, `Guilda ícone`, `mídia`**
+**Usuário para `avatar`, `banner`, `emoji`, `Guilda ícone`, `mídia`**
+
+**Media e Cdn**
+
+`getCdnUrl()` or __`https://cdn.discordapp.com/`__
+
+`getMediaUrl()` or `https://media.discordapp.net/`
