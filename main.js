@@ -1,15 +1,3 @@
-/*
-import {
-  getCdnUrl,
-  getMediaUrl,
-  japiUser,
-  getAvatar,
-  getBanner,
-  getEmoji,
-  getIcon
-} from '/discordEasy.js';
-*/
-
 japiUser("933891035216613446", function(data) {
   //alert("Sorry Welcome");
   var api = data;
@@ -26,6 +14,7 @@ japiUser("933891035216613446", function(data) {
     getImage = getCdnUrl() + getAvatar(null, null, 1);
   }
   suc(getImage, name, user, getImage_high)
+  
 }, function(er) {
   
 })
