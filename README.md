@@ -1,4 +1,5 @@
 # Discord Easy - Office
+![img](https://raw.githubusercontent.com/yurizzjaxx/DiscordEasy-Office/refs/heads/main/image/gato%20emo.jpeg)
 
 ### Código de importação local do caminho JavaScript:
 
