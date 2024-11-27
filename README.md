@@ -4,7 +4,9 @@
 
 **import "discordEasy.js" module**
 
-**Clique:** [discordEasy aqui](https://github.com/yurizzjaxx/DiscordEasy-Office/blob/main/discordEasy.js)
+- **Website:** [Web Browser](https://yurizzjaxx.github.io/DiscordEasy-Office/)
+
+- **Clique:** [discordEasy aqui](https://github.com/yurizzjaxx/DiscordEasy-Office/blob/main/discordEasy.js)
 
 ```js
 import {
