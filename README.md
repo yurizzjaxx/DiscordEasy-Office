@@ -61,3 +61,11 @@ getAvatar("Usuário ID", "avatar", /* Discriminator número 0 - 5 */, /* Número
 ```js
 getBanner("Usuário ID", "banner", /* Número size 2048 max */);
 ```
+## Discord Avatar Support
+
+<table>
+  <tr>
+    <td>cdn discord imagem</td>
+    <td>Avatar ✅</td>
+  </tr>
+</table>
