@@ -47,5 +47,5 @@ console.error(er);
 `getAvatar()`
 
 ```js
-getAvatar("Usuário ID", "avatar", "0 - 9", "size 2048");
+getAvatar("Usuário ID", "avatar", "discriminator 0 - 5", "size 2048 max");
 ```
