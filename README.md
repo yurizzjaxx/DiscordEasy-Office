@@ -29,6 +29,7 @@ import {
 ```js
 japiUser("Usuário ID", function(user) {
 // código
+console.log(user)
 }, function(er) {
 // Error
 console.error(er);
@@ -36,9 +37,11 @@ console.error(er);
 ```
 
 ### Discord Media Easy todas
-**Usuário para `avatar`, `banner`, `emoji`, `Guilda ícone`, `mídia`**
 
 **Mídia e Cdn com Avatar no ícone da Guild**
+
+**Usuário para `avatar`, `banner`, `emoji`, `Guilda ícone`, `mídia`**
+
 - `getCdnUrl()` or `https://cdn.discordapp.com/`
 - `getMediaUrl()` or `https://media.discordapp.net/`
 
@@ -47,5 +50,11 @@ console.error(er);
 `getAvatar()`
 
 ```js
-getAvatar("Usuário ID", "avatar", "discriminator 0 - 5", "size 2048 max");
+getAvatar("Usuário ID", "avatar", /* Discriminator número 0 - 5 */, /* Número size 2048 max */);
+```
+
+`getBanner()`
+
+```js
+getBanner("Usuário ID", "banner", /* Número size 2048 max */);
 ```
