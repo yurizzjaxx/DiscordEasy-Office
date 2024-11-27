@@ -24,10 +24,6 @@ japiUser("933891035216613446", function(data) {
     getImage = getCdnUrl() + getAvatar(null, null, 1);
   }
   suc(getImage, name, user, getImage_high)
-  
-  var _sc = document.createElement("script")
-  _sc.src = "html2canvas.min.js"
-  document.body.appendChild(_sc)
 }, function(er) {
   
 })
