@@ -20,7 +20,7 @@ import {
   getIcon
 } from '/discordEasy.js';
 ```
-**HTML de JavaScript para module**
+### HTML de JavaScript para module
 
 ```html
 <script type="module" src="main.js"></script>
