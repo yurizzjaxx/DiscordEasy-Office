@@ -63,9 +63,42 @@ getBanner("Usuário ID", "banner", /* Número size 2048 max */);
 ```
 ## Discord Avatar Support
 
+**Discord embed avatar**
+
 <table>
   <tr>
-    <td>cdn discord imagem</td>
-    <td>Avatar ✅</td>
+    <td>Cdn discord imagem</td>
+    <td>Discriminator 0 - 5</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Discriminator</td>
+    <td>Size 2048</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Media discord imagem</td>
+    <td>Discriminator 0 - 5</td>
+    <td>❌</td>
+  </tr>
+</table>
+
+**Discord Avatar**
+
+<table>
+  <tr>
+    <td>Cdn discord imagem</td>
+    <td>Avatar</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Avatar</td>
+    <td>Size 2048</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Media discord imagem</td>
+    <td>Avatar</td>
+    <td>✅</td>
   </tr>
 </table>
