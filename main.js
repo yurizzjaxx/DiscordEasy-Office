@@ -42,8 +42,10 @@ fileDownloadURL(imageUrlHigh, userName)
 }
 var p1 = document.createElement("h3")
 p1.textContent = name;
+p1.style.fontFamily = "fontFamily";
 var p2 = document.createElement("h4")
 p2.textContent = `@${userName}`;
+p2.style.fontFamily = "fontFamily";
 var p3 = document.createElement("h4")
 p3.textContent = ""
 tr.appendChild(img)
