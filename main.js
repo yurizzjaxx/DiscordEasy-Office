@@ -22,9 +22,9 @@ japiUser("933891035216613446", function(data) {
 
 
 function suc(imageUrl, name, userName, imageUrlHigh) {
-  document.getElementById("_d").remove()
+  document.getElementById("d").remove()
 var addr = document.createElement("table");
-addr.id = "_d"
+addr.id = "d"
 addr.className = "_c"
 
 var tr = document.createElement("tr");
@@ -62,7 +62,7 @@ console.log(addr)
 }
 
 var addr = document.createElement("table")
-addr.id = "_d"
+addr.id = "d"
 var text = document.createElement("h2")
 text.textContent = "Carregando...";
 
